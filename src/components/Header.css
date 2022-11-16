@@ -1,0 +1,10 @@
+/* Header */
+
+.home-header {
+    margin-bottom: 30px;
+    display: flex;
+}
+
+.img {
+    height: 70px;
+}

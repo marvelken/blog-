@@ -1,0 +1,22 @@
+    /* Search Bar */
+    
+    .input {
+        width: 500px;
+        margin-bottom: 40px;
+        margin-top: 20px;
+        padding: 10px;
+        border: none;
+        outline: none;
+    }
+    
+    .searchBar-wrap {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        background-color: rgb(0, 162, 255);
+    }
+    
+    .btn {
+        padding: 10px;
+        border: 0;
+    }
